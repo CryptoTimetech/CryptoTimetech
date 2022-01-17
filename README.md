@@ -5,7 +5,7 @@
 - Hardware Dell
 - OS Linux Debian based
 - Pre-Built engine Eventually by @ajlkn https://html5up.net/
-- Language HTML5, CSS3, Javascript
+- Language HTML5, SCSS, CSS3, JavaScript
 - Editor VSCodium
 - Platform GitHub & GitHub Pages
 - Sitemap generator https://www.xml-sitemaps.com/
