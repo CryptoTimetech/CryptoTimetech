@@ -3,7 +3,7 @@
 ### Tooling
 
 - Hardware Dell
-- OS Linux
+- OS Linux Debian based
 - Pre-Built engine Eventually by @ajlkn https://html5up.net/
 - Language HTML5, CSS3, Javascript
 - Editor VSCodium
